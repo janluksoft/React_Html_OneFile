@@ -1,4 +1,4 @@
-# Simple React elements in one .html file
+# Simple React elements in one html file
 
 This page demonstrates using React with no build tooling, no use NPM. React elements are composed of [Class Component (state full)] and [Function Component (state less)]. The [Function Component] uses the Hook technique.
 
